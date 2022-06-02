@@ -15,7 +15,7 @@ vue create lab2
 
 - Run 
 ```
-cd lab1
+cd lab2
 ```
 ```
 npm run serve
